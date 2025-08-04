@@ -13,10 +13,7 @@ body {
 }
 
 .plants-container > div {
-  /*display: flex;
-  justify-content: center;*/
   flex-basis: 200px;
-  /*flex-wrap: wrap;*/
 }
 
 img {
